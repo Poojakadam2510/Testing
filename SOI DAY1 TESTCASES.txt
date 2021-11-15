@@ -1,0 +1,26 @@
+TEST CASE FOR LOGIN IN PAGE:
+(eMAIL.ID)CHECK
+1.	NOT BE NULL
+2.	NOT MORE THAN 25 CHAR.
+3.	COMBINATION OF NUMBER AND CHAR
+4.	THEIR SHOULD NOT BE NUMBBER AFTER @
+5.	you must clear your domain name
+
+(password) CHECK
+1.	include special char
+2.	length must be of 6 digits
+3.	combine upper case and lower case
+4.	your password must be strong in if
+
+(afterLOGIN) check
+
+1.	it must show the post from friends
+2.	viral video
+3. 	i be able to comment,like,share the post and video
+4.	it must show the time of the video
+5.	if some one tag us it must show that in notifications.
+6.	profile must be secure.
+7.	with that our personal information must be secure.
+8.	post as well as video must came from authorised user.
+9.	it will show us the friend request
+10.	we are able to add friends.
